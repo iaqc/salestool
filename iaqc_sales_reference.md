@@ -181,5 +181,82 @@
 
 <img src="http://drive.google.com/uc?export=view&id=1e_aqi2rUjBzGuX8gaG85N5hMSuFdxv9T" width="100%">
 
+## 설치 장소: JR타워호텔 닛코 삿뽀로 호텔 (Japan)
+    - 설치 목적: 객실내 탈취
+    - 설치 모델: AIO2
+    - 설치 용량: 
+
+<img src="http://drive.google.com/uc?export=view&id=1SSB2cBSfYC5UZgiHeAJo-9LNj2MBZ63f" width="100%">
+
+## 설치 장소: 도쿄도 소방청 특수구급차 (Japan)
+    - 설치 목적: 구급차 내 탈취
+    - 설치 모델: WT002
+    - 설치 용량: 
+
+<img src="http://drive.google.com/uc?export=view&id=1gdcw_Uu16d8Tj47wy5MCPi7iQHyI5lAx" width="100%">
+
+## 설치 장소: 홋카이도 아사히카와시 구급차 (Japan)
+    - 설치 목적: 구급차 내 탈취
+    - 설치 모델: TK003
+    - 설치 용량: 
+
+<img src="http://drive.google.com/uc?export=view&id=1f1ucxe8cboLXeJPjPkbRIZBy8fmmnENH" width="100%">
+
+## 설치 장소: 국립오사카의료센터 (Japan)
+    - 설치 목적: 병리실 내 포름알데히드 저감
+    - 설치 모델: WT002
+    - 설치 용량: 
+
+<img src="http://drive.google.com/uc?export=view&id=11peZ8Kcdl3k2R43UTs5wyNsowA9Gxhlw" width="100%">
+
+## 설치 장소: 국립긴키중앙흉부질환센터 (Japan)
+    - 설치 목적: 병리실 내 키실렌 저감
+    - 설치 모델: WT002
+    - 설치 용량: 
+
+<img src="http://drive.google.com/uc?export=view&id=1x--d0n1q821rPSJP_BICpGS53n3Y14Et" width="100%">
+
+## 설치 장소: 오사카부립 급성기 종합의료센터 (Japan)
+    - 설치 목적: 병리실 내 암모니아 저감
+    - 설치 모델: WT002
+    - 설치 용량: 
+
+<img src="http://drive.google.com/uc?export=view&id=1TK_GETV9WUVitG36gcO9nbXTc5XwfVBd" width="100%">
+
+## 설치 장소: 오사카국제암센터 (Japan)
+    - 설치 목적: 병리실 내 VOC 저감
+    - 설치 모델: IP-101C(WT002 동등)
+    - 설치 용량: 
+
+<img src="http://drive.google.com/uc?export=view&id=1BCrmh9_AYMIrp7mlBpwb0Ir3efXoeS-Q" width="100%">
+
+## 설치 장소: 사이타마현립 소아의료센터 (Japan)
+    - 설치 목적: 무균실내 살균
+    - 설치 모델: AIO2
+    - 설치 용량: 
+
+<img src="http://drive.google.com/uc?export=view&id=19KvcGqXYei0nfMaiNk4wPKTqbznaeFo4" width="100%">
+
+## 설치 장소: 다케바야시위멘즈클리닉 (Japan)
+    - 설치 목적: 신생아실 살균
+    - 설치 모델: WT002
+    - 설치 용량: 
+
+<img src="http://drive.google.com/uc?export=view&id=1d2HgI_IhwNNm1SF9ugadThpJPBItW9Xn" width="100%">
+
+## 설치 장소: 남극관측선 시라세 (Japan)
+    - 설치 목적: 냉장실 내 곰팡이 제거
+    - 설치 모델: WT002
+    - 설치 용량: 
+
+<img src="http://drive.google.com/uc?export=view&id=1HBGFkVLjGXhXAzzfhICIdHm2yBu3QLbc" width="100%">
+
+## 설치 장소: 구니타치아오야기원 (Japan)
+    - 설치 목적: 시설내 살균 탈취
+    - 설치 모델: WT002
+    - 설치 용량: 
+
+<img src="http://drive.google.com/uc?export=view&id=1Rqtgn0VlxEJayj77omtCcPvxG9Rfr_Kq" width="100%">
+
 
 
